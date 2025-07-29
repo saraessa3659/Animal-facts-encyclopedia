@@ -1,0 +1,3 @@
+elephant:A baby elephant can weigh over 200 pounds!
+penguin:Penguins can’t fly, but they can swim super fast!
+cat:Cats sleep for 70% of their lives.
